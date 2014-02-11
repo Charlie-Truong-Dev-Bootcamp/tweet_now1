@@ -7,3 +7,11 @@
 th {
   text-align: left;
 }
+
+img{
+  width: 200px;
+  position: relative;
+  left: 50%;
+  margin-left: -100px;
+  display: none;
+}
